@@ -72,7 +72,12 @@ try.
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceethedev&layout=compact&hide_border=true&theme=transparent" alt="Top languages"/>
 </p>
 <p align="center">
-  <img width="720" src="https://github-readme-activity-graph.vercel.app/graph?username=ceethedev&hide_border=true&theme=github-compact" alt="GitHub contribution activity"/>
+  <a href="https://github.com/ceethedev">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fceethedev&query=%24.public_repos&label=Public%20repositories&logo=github&color=181717" alt="Public GitHub repositories"/>
+  </a>
+  <a href="https://github.com/ceethedev">
+    <img src="https://img.shields.io/github/followers/ceethedev?label=GitHub%20followers&style=social" alt="GitHub followers"/>
+  </a>
 </p>
 
 ## Contact
